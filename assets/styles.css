@@ -1,0 +1,19 @@
+body {
+    background-color: #5ce4ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.dash-dropdown {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
