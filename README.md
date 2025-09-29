@@ -16,6 +16,8 @@ Run from within the directory using
 python app.py
 ```
 
+Once running navigate to local site hosting (http://127.0.0.1:8050/)
+
 ## Design Choices:
 
 1. Used Plotly and Dash due to built-in zoom and image capture for graphs
